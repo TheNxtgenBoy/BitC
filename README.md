@@ -1,2 +1,1 @@
-# BitC
-Bitcoin Cracker Tool with Balance
+### **Just for educational purposes....**
